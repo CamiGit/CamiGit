@@ -17,7 +17,7 @@ Full Stack Developer con formación en Ingeniería de Software y especializació
 
 - 🌎 Bogotá, Colombia
 - 🔐 Orientado al desarrollo de software **seguro y escalable**
-- 📫 camilo.orjuela@hotmail.com
+- 📫 www.linkedin.com/in/camilo-orjuela-bonilla-desarrollador-full-stack
 - 🚀 Open to new opportunities
 
 ---
@@ -84,8 +84,7 @@ Quices interactivos con manipulación del DOM, validaciones de formularios y con
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CamiGit&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiGit&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CamiGit&theme=github-compact&hide_border=true" />
 </p>
 
 ---
